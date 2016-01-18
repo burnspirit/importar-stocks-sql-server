@@ -1,5 +1,6 @@
 {
     "ficheiro": "stocks.csv",
+	"versao":"2015",
 	"documento":{
 		"tipo": "SS",
 		"serie": "X11",
