@@ -2,16 +2,16 @@
     "ficheiro": "stocks.csv",
 	"versao":"2015",
 	"documento":{
-		"tipo": "SS",
-		"serie": "X11",
-		"numero": "1",
-		"data": "2015-12-31"
+		"tipo": "",
+		"serie": "",
+		"numero": "",
+		"data": ""
 	},
     "mssql":{
-        "host": "WIN-36S3ET5TDTG",
-        "namepipe": "SAGE",
+        "host": "",
+        "namepipe": "",
         "username": "sa",
-        "password": "sage2008+",
-        "database": "GesPOSData_AGROPB"
+        "password": "",
+        "database": ""
     }
 }
